@@ -1,13 +1,16 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: My Profile
+author: Adewale Nurudeen A.
+email: nurudeenadeolaa@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+I am a graduate of Building Technology who has acquired extensive knowledge in the field through the study of Building Production Management. I have previous work experience in establishing building requirements and also have a flair for design using AutoCAD and Revit.
+
+I have strong desire for technology and I wish to build a career in Software development. I am eager to be challenged in order to grow and further improve my skills.
+
+My passion is using my technical ability to benefit other people and organizations.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: adewalenurudeen
+github_username:  hardey18
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
