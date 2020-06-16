@@ -1,4 +1,4 @@
-# Adewale Nurudeen A.
+# Adewale Nurudeen Adeola
 
 I am a graduate of Building Technology who has acquired extensive knowledge in the field through the study of **Building Production Management**. I have previous work experience in establishing building requirements and also have a flair for design using AutoCAD and Revit.
 
